@@ -4,6 +4,12 @@ body {
 	padding:0px;
 }
 
+h2{
+	font-family: 'Allura', cursive;
+	font-style:black;
+	font-size:50px;
+}
+
 #wrapper {
 
 	width:1000px;
